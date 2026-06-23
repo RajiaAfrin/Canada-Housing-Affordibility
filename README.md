@@ -38,7 +38,7 @@ The project provides a data-driven framework that can support policymakers, urba
 
 ### Raw Datasets
 
-- Housing Prices Dataset : [Insert Link]
+- Housing Prices Dataset :- <a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Raw/Housing_prices_raw.csv"><a/>
 - Population Dataset : [Insert Link]
 - Rental Market Survey Dataset : [Insert Link]
 
