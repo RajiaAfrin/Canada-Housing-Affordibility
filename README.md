@@ -32,7 +32,8 @@ The project provides a data-driven framework that can support policymakers, urba
 # Project Resources
 
 ## Interactive Dashboard
-- <a href="">Dashboard<a/>
+- <a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/HOUSING%20AFFORDIBILITY.pbix">Dashboard<a/>
+
 ## Datasets
 
 ### Raw Datasets
