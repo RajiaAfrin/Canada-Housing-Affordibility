@@ -47,24 +47,15 @@ The project provides a data-driven framework that can support policymakers, urba
 - -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Clean/housing_price_clean_stage1.csv">Housing Prices Cleaned Dataset<a/>
 - -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Clean/Population_Clean_Stage1.csv">Population Cleaned Dataset<a/>
 - -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Clean/Rental_Clean_Stage1.xlsx">Rental Market Cleaned Dataset<a/>
-- -<a href="">Master Dataset<a/>
+- -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/master_dataset/master.csv">Master Dataset<a/>
 
 
 ## Project Files
 
-### Python Notebook
+-<a href="">Python Notebook<a/>
 
-[Insert Link]
+-<a href="">SQL Script<a/>
 
-### SQL Script
-
-[Insert Link]
-
-### Power BI Dashboard (.pbix)
-
-[Insert Link]
-
----
 
 # Project Background
 
