@@ -52,7 +52,7 @@ The project provides a data-driven framework that can support policymakers, urba
 
 ## Project Files
 
--<a href="">Python Notebook<a/>
+-<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Housing_Affordability.ipynb">Python Notebook<a/>
 
 -<a href="">SQL Script<a/>
 
