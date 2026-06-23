@@ -44,10 +44,10 @@ The project provides a data-driven framework that can support policymakers, urba
 
 ### Cleaned Datasets
 
-- -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Raw/Housing_prices_raw.csv">Housing Prices Cleaned Dataset<a/>
-- -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Raw/Housing_prices_raw.csv">Population Cleaned Dataset<a/>
-- -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Raw/Housing_prices_raw.csv">Rental Market Cleaned Dataset<a/>
-- -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Raw/Housing_prices_raw.csv">Master Dataset<a/>
+- -<a href="https://github.com/RajiaAfrin/Canada-Housing-Affordibility/blob/main/Data/Clean/housing_price_clean_stage1.csv">Housing Prices Cleaned Dataset<a/>
+- -<a href="">Population Cleaned Dataset<a/>
+- -<a href="">Rental Market Cleaned Dataset<a/>
+- -<a href="">Master Dataset<a/>
 
 
 ## Project Files
