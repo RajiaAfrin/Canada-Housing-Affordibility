@@ -32,7 +32,7 @@ The project provides a data-driven framework that can support policymakers, urba
 # Project Resources
 
 ## Interactive Dashboard
-- <a href="https://github.com/RajiaAfrin/Meta_Ad_performance_Analysis/tree/main/Meta%20Ad%20Analysis">Dashboard<a/>
+- <a href="">Dashboard<a/>
 ## Datasets
 
 ### Raw Datasets
