@@ -1,4 +1,4 @@
-# Canada Housing Affordability Market Analysis (2021–2025)
+# Canada Housing Affordability Market Analysis (2025)
 
 An end-to-end analytics project investigating housing affordability conditions across major Canadian metropolitan areas. This project combines data collection, ETL, exploratory data analysis, feature engineering, PostgreSQL, SQL business analysis, and Power BI to identify which housing markets are currently under the greatest pressure and understand the factors contributing to affordability challenges in 2025.
 
@@ -32,11 +32,7 @@ The project provides a data-driven framework that can support policymakers, urba
 # Project Resources
 
 ## Interactive Dashboard
-
-
-
-
-
+- <a href="https://github.com/RajiaAfrin/Meta_Ad_performance_Analysis/tree/main/Meta%20Ad%20Analysis">Dashboard<a/>
 ## Datasets
 
 ### Raw Datasets
